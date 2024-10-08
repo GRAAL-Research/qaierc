@@ -1,2 +1,1 @@
-# qaierc
-Quebec Automobile Insurance Expertise References Corpus
+# Quebec Automobile Insurance Question-Answering With Retrieval-Augmented Generation
