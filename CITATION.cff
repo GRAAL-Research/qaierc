@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: article
+  message: "If you this dataset, please cite it as below."
+  authors:
+  - family-names: "Beauchemin"
+    given-names: "David"
+  - family-names: "Saggion"
+    given-names: "Horacio"
+  - family-names: "Richard"
+    given-names: "Khoury"
+  title: "MeaningBERT: Assessing Meaning Preservation Between Sentences"
+  url: "https://www.frontiersin.org/articles/10.3389/frai.2023.1223924"
+  year: 2024
